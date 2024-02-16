@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">conversor</string>
+    <string-array name="spnLongitud">
+        <item>Metro</item>
+        <item>CM</item>
+        <item>Pulgada</item>
+        <item>PIE</item>
+        <item>VARA</item>
+        <item>Yarda</item>
+        <item>Km</item>
+        <item>Milla</item>
+    </string-array>
+
+    <string-array name="spnAlmacenamiento">
+        <item>Bit(b)</item>
+        <item>Byte(B)</item>
+        <item>kilobyte(KB)</item>
+        <item>Megabyte(MB)</item>
+        <item>Gigabyte(GB)</item>
+        <item>Terabyte(TB)</item>
+        <item>Petabyte(PB)</item>
+        <item>Exabyte(EB)</item>
+        <item>Zettabyte(ZB)</item>
+        <item>Yotta(YB)</item>
+    </string-array>
+
+    <string-array name="spnMonedas">
+        <item>Dolar Estado Unidense</item>
+        <item>EURO</item>
+        <item>QUETZAL</item>
+        <item>LEMPIRA HONDUREÑO</item>
+        <item>COLON COSTARRICENCE</item>
+        <item>COLON SALVADOREÑO</item>
+    </string-array>
+
+    <string-array name="spnMasa">
+        <item>Gramo(g)</item>
+        <item>Kilogramo(kg)</item>
+        <item>Libra(lb)</item>
+        <item>Onzas(oz)</item>
+        <item>Miligramo(mg)</item>
+        <item>Quintal(Q)</item>
+        <item>Tonelada(T)</item>
+    </string-array>
+
+    <string-array name="spnVolumen">
+        <item>centimetro cubico(CM^3)</item>
+        <item>Metro Cubico(M^3)</item>
+        <item>Pie Cubico(ft^3)</item>
+        <item>Pulgada Cubica(in^3)</item>
+        <item>Yarda Cubica(yd^3)</item>
+    </string-array>
+
+    <string-array name="spnTempo">
+        <item>Segundo(s)</item>
+        <item>Minuto(Min)</item>
+        <item>Hora(H)</item>
+        <item>Dia(D)</item>
+        <item>Semana(sem)</item>
+        <item>Año(a)</item>
+    </string-array>
+
+    <string-array name="spnTransDatos">
+        <item>kbit/s </item>
+        <item>Mbit/s </item>
+        <item>Gbit/s </item>
+        <item>Tbit/s </item>
+    </string-array>
+
+</resources>
